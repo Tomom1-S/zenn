@@ -1,0 +1,23 @@
+{
+  "name": "zenn",
+  "version": "1.0.0",
+  "description": "Zenn's contents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tomom1-S/zenn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tomom1-S/zenn/issues"
+  },
+  "homepage": "https://github.com/Tomom1-S/zenn#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.79"
+  }
+}
