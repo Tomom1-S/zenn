@@ -3,7 +3,7 @@ title: "自己紹介"
 emoji: "🐣"
 type: "idea"
 topics: ["自己紹介"]
-published: false
+published: true
 ---
 
 # 自己紹介
