@@ -1,0 +1,35 @@
+---
+title: "Nand2Tetris読書会（第0回）" # TODO 回数を直す emoji: "📚"
+type: "idea"
+topics: ["読書会", "勉強会"]
+published: false # 公開するときはtrueに変える
+---
+
+# 概要
+
+[Nand2Tetris読書会](https://zenn.dev/tomom1_s/articles/nand2tetris-00) の第0回を開催しました。
+今回の範囲は、0章『xxx』です。
+
+# 内容
+
+ここに内容をまとめる
+
+## 予習メモ
+
+### title1
+
+予習をしたときに調べたことや気づいたことを書く
+
+## ディスカッションメモ
+
+### question1
+
+# 感想
+
+# 最後に
+
+『[Nand2Tetris読書会始めました](https://zenn.dev/tomom1_s/articles/nand2tetris-00)』の記事でも紹介していますが、読み進めているのはこちらの本です。
+https://www.oreilly.co.jp/books/9784873117126/
+
+初学者なりに書籍やその他に調べた内容をまとめていますが、理解が足りておらず間違ったことを書いているかもしれません。
+そのような箇所を見つけた場合はコメントなどで指摘していただけると助かります。
