@@ -3,7 +3,7 @@ title: "Nand2Tetris読書会（第2回）"
 emoji: "📚"
 type: "idea"
 topics: ["読書会", "勉強会"]
-published: false
+published: true
 ---
 
 # 概要
