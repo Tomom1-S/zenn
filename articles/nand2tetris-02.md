@@ -11,6 +11,8 @@ published: true
 [Nand2Tetris読書会](https://zenn.dev/tomom1_s/articles/nand2tetris-00) の第2回を開催しました。
 今回の範囲は、2章『ブール算術』(途中まで)です。
 
+前回の記事は [こちら](https://zenn.dev/tomom1_s/articles/nand2tetris-01)。
+
 # 内容
 
 数を表現して算術演算を行う論理ゲートについて学習する。 2章では、1章で扱った論理ゲートから算術論理演算器（ALU）を作成する。
