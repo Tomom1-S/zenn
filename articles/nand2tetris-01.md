@@ -1,5 +1,5 @@
 ---
-title: "Nand2Tetris読書会（第1回）"
+title: "Nand2Tetris読書会（1章）"
 emoji: "📚"
 type: "idea"
 topics: ["読書会", "勉強会"]
@@ -8,8 +8,8 @@ published: true
 
 # 概要
 
-[Nand2Tetris読書会](https://zenn.dev/tomom1_s/articles/nand2tetris-00) の第1回を開催しました。
-今回の範囲は、1章『ブール定理』です。
+[Nand2Tetris読書会](https://zenn.dev/tomom1_s/articles/nand2tetris-00) を開催しています。
+今回取り上げるのは、1章『ブール定理』です。
 
 # 内容
 
@@ -79,3 +79,5 @@ https://www.oreilly.co.jp/books/9784873117126/
 
 初学者なりに書籍やその他に調べた内容をまとめていますが、理解が足りておらず間違ったことを書いているかもしれません。
 そのような箇所を見つけた場合はコメントなどで指摘していただけると助かります。
+
+次の記事は [こちら](https://zenn.dev/tomom1_s/articles/nand2tetris-02)。
