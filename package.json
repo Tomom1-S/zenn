@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/Tomom1-S/zenn#readme",
   "dependencies": {
-    "zenn-cli": "^0.1.93"
+    "zenn-cli": "^0.1.107"
   }
 }
