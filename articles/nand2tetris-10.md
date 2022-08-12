@@ -125,4 +125,4 @@ https://www.oreilly.co.jp/books/9784873117126/
 初学者なりに書籍やその他に調べた内容をまとめていますが、理解が足りておらず間違ったことを書いているかもしれません。
 そのような箇所を見つけた場合はコメントなどで指摘していただけると助かります。
 
-<!-- 次の記事は [こちら](https://zenn.dev/tomom1_s/articles/nand2tetris-11)。 -->
+次の記事は [こちら](https://zenn.dev/tomom1_s/articles/nand2tetris-11)。
