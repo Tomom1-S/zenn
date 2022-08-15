@@ -92,3 +92,13 @@ Slack（個人チャンネル + 前回の読書会チャンネル）と社内ブ
 https://zenn.dev/tomom1_s/articles/nand2tetris-01
 https://zenn.dev/tomom1_s/articles/nand2tetris-02
 https://zenn.dev/tomom1_s/articles/nand2tetris-03
+https://zenn.dev/tomom1_s/articles/nand2tetris-04
+https://zenn.dev/tomom1_s/articles/nand2tetris-05
+https://zenn.dev/tomom1_s/articles/nand2tetris-06
+https://zenn.dev/tomom1_s/articles/nand2tetris-07
+https://zenn.dev/tomom1_s/articles/nand2tetris-08
+https://zenn.dev/tomom1_s/articles/nand2tetris-09
+https://zenn.dev/tomom1_s/articles/nand2tetris-10
+https://zenn.dev/tomom1_s/articles/nand2tetris-11
+https://zenn.dev/tomom1_s/articles/nand2tetris-12
+https://zenn.dev/tomom1_s/articles/nand2tetris-13
